@@ -18,4 +18,4 @@ Research data from human subjects that is not of an anonymized nature is conside
 
 ## Acknowledgement
 
-Initial work was done on [BioHackaton Germany 2022](https://github.com/deNBI/biohackathon-2022) under project named "Towards a minimum information checklist for biomedical research projects with sensitive human data (only remote)".
+Initial work was done on [BioHackaton Germany 2022](https://github.com/deNBI/biohackathon-2022) under project named "Towards a minimum information checklist for biomedical research projects with sensitive human data (only remote)" with following team composition: Pinar Alper (PNED), Vilém Děd (ELIXIR-LU), Christoph Kämpf (IZI-Fraunhofer), Nene Djenaba Barry (ELIXIR-LU), Danielle Welter (PNED), Valérie Barbié (ELIXIR-CH), Marina Popleteeva (ELIXIR-LU), Frédéric Erard (ELIXIR-CH)
